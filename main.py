@@ -91,6 +91,13 @@ print("\n-On your own-")
 #create and integer variable called my_age and store your age in it
 print("\n\n My name is Rohan")
 
+class classesAreCool():
+	def __init__(self, name):
+		self.name = name
+	def getName():
+		return self.name
+	def setName(newName):
+		self.name = newName
 #Create a list of strings with your first and last name
 
 
