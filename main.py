@@ -3,7 +3,7 @@ print("-----1-----")
 #In python, variables normally have one of a few types
  
 #int variables hold integers
-x = 50
+x = 5000
 y = 20
 age = 11
  
