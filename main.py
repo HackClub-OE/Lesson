@@ -5,7 +5,8 @@ print("-----1-----")
 #int variables hold integers
 x = 5
 y = 20
-age = 11
+age = 50
+NASA = "hacked"
 
 #float variables hold decimal numbers
 version = 2.1
